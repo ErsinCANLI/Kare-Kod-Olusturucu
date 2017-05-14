@@ -1,0 +1,103 @@
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare_Kod_Oluşturucu.Form1.resources
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare_Kod_Oluşturucu.Properties.Resources.resources
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.exe.licenses
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\Kare Kod Oluşturucu.exe
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\Kare Kod Oluşturucu.pdb
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.exe
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.pdb
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\Kare Kod Oluşturucu.exe
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\Kare Kod Oluşturucu.pdb
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.csprojResolveAssemblyReference.cache
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare_Kod_Oluşturucu.Form1.resources
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare_Kod_Oluşturucu.Properties.Resources.resources
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.csproj.GenerateResource.Cache
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.exe.licenses
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.exe
+C:\Users\Lütfi Can Say\Desktop\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.pdb
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.exe
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.pdb
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\Kare Kod Oluşturucu.exe
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\Kare Kod Oluşturucu.pdb
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.csprojResolveAssemblyReference.cache
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare_Kod_Oluşturucu.Form1.resources
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare_Kod_Oluşturucu.Properties.Resources.resources
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.csproj.GenerateResource.Cache
+C:\Users\Lütfi Can Say\Desktop\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.exe.licenses
+E:\Dosyalarım\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.exe
+E:\Dosyalarım\Programlar\Kare Kod Oluşturucu\Kare Kod Oluşturucu\obj\Debug\Kare Kod Oluşturucu.pdb
